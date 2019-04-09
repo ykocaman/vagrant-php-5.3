@@ -38,7 +38,7 @@ config.vm.synced_folder "local-project-path", "/var/www/app/"
 vagrant up
 ```
 
-5) You can use [phpmyadmin](http://app.local/phpmyadmin)
+5) You can use phpMyAdmin via http://app.local/phpmyadmin
 
 ## Troubleshooting
 
