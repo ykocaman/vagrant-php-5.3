@@ -1,6 +1,6 @@
 # Vagrant for PHP 5.3 with Apache 2.2, Mysql 5.5 and Mongo 3.2 on Ubuntu 12
 
-# Version List
+## Version List
 
 - Ubuntu 12
 - PHP 5.3
