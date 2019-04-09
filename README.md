@@ -24,7 +24,7 @@
  192.168.10.10 app.local
 ```
 
-	If you need HTTPS, use [mkcert](https://github.com/FiloSottile/mkcert)
+> If you need HTTPS, use [mkcert](https://github.com/FiloSottile/mkcert)
 
 2) Define `local-project-path` in `Vagrantfile` as your project absolute path.
 
